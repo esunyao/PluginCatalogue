@@ -1,0 +1,96 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"bee931cf336a93ab09fdf63c51a9867144d7a5c8a48e81563513741c7ecce85c\"",
+      "data": "H4sIAPlIb2gC/+1ZbW/bNhD+K4W/rrJIiXozMBRZ03UFZqdNnGFrPRiURMlaZUmQKAeJkf++I2XJlpM4dWL7w6YEsBPq7rnjUXx4D/ht2SvzuDd405txnhUDVaVZ1A8jPivdvpfO1ZxlaaF+pkURpYkyYguWK+cR/JdRztSPyFfSQPmNUb8A05jRghWqhohBdIxw7+2bHngyXkyPGEWtQohgZRan1N8OVo0Whw64fJfQOXsbU5fF9yL6jM/j7dgbMfeLxmmoan3URwI58gGziS+qWvJZmsPgshenYZSIkFeMXStXZ8OzxgPbpmVjjSAYSFKfTeVo73r6PTy/eH/76eJC2tIF5TR/sERytK5aWbDcSxPOEi4nU6oN+LvFz0TAhPkKqIoi12PnqgvMQm2l/UwJW7ZBGsfpDUBM9wqjNn5rkCgJXwQCfks15TMG1QMD+RaEUcH3TUn6LOUXVE/CFFDJnPl7Aq28IKmbBPJZyhe9wivdwsujjMMruG96LV8BluYhTaI7+hIw8JUYcgvu6St9hDNsoWTvKldOSzXLowX1bu+rLDwWLaDOL0Lc8haA/DZjcpOBqdwC8D1dROxmWj/JSjeOPLkmEWdT6s/l/g1oXLD79k69/DD9fnN+MbodfgyGZDi8vHRkDBpOBfcIk4YjYOVDxqeQ5jziUTETD+cUoAXkyniTapRF4+rnNOB1CoI85vOSUzdmG2NZzlbctDHo5QwYzJ9SLlNBmqEgTdH0MdIHCA2Q/lXAywkXsy07XUH2GFsDnQwM8nV9VIDFt2OcShW6qumGZSCTOGterUe2an+2WfuL8+ux8Uwp+3PPl2sujwQwSso4bk4l1tF1R9cdXf/n6Hq1zRp7mmVgL2utph5nXCk40OR89ZZwabSiBL+CvRNj2MSOJsg4ClnB1+zhw7shu1ovLRMxjiVBPEa9G5RKKkotM3+nlSWt3Dy9EfNuQh2qia0Bq05WfZIz7/+uDjCXxvHhpMIKcN1G30XZYSOsANcR3NS/FdCT0sGePyltx8aT0jQDAp+GiyZlECAPxt3AmpSEIRf+DiywNC2EahtLI/ak1BHSJvkkWfvrjvhkxqQ0At8SWJgKizfwg2toEjAGBg7yRQDbxH0N9Q1FfpnwwGRIPNCp+PTY6JdxO0FD02UKJgQziAe4ho2Eoy4cLeYR4RiIETcQU8GVr3hqer4hMrACsDQ0mISp+1ptb5k2WDqGyM+ByqynKCag1RPYnK2YABgjZovERBqmYVuiWpqw1L1A1C9AbSi9hqoWAQ4+UkPBxN16WQhjYGnZCFfuPdjOx9HDyNYsBwIcVw+vopxOD7cDHl8P4z5u6eFV/Cf08K+X15/GV8r7s9H5X42TTbDuWLbVbrGG51/MP/4cxd4/IRqOh8boLtRf3mrVMV7ZaW3n/0w5t83367c2vV/Tcj2C87quqwX4ysarhXXI3qsN/Pr2q4W3fwfWcn9JE9YCOFQftpXVKZXz78rHz8q2cm7YZH/l3LgeWDlje4zIAKMBQTuUc2OnQQ93SuWMMLZ0e4OB65FdynnE8dmHZ0q5n3LuiL0j9o7Y/0/EfjCNrZu6/SMaW1rt5GjgXvykxN600k4ksSWRqk+S63EldnMgHk1iNxHWEhv0pwOyFv9UK+ZKFdqBLySeTby1fgRtCGKQ+MeSeNixLNuA36NKvCbKqSTedsBTSLzNK88mfifxuk6g6wS6TmCHxLsNvr9/KPHQyyXeMS5HsaLjMcYDwxogskPiVXb6QDcHmn5CiacZ2DQwttcSrx7ZKfGoZSvPlLKTeB2xd8TeEfsJJB5CPyLxCNnJ0ZJ7sfGkxNu0sk8m8dAjEg+dSuKho0u8B7eolqtJFYfknaVGVzWp7/cMgpi4k2TirlNchoq/rXpkfasJpfkXV/wkKOoqAAA=",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPV61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "225165118": {
+      "meta": {
+        "schema_version": 4,
+        "id": "g0d_of_heads",
+        "name": "G0d of Heads",
+        "version": "1.0.0",
+        "link": "https://github.com/Passion-Never-Dissipate/G0d-of-Heads",
+        "authors": [
+          "SeeU_SAMA,FRUITS_CANDY"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "获取任意玩家的任意数量的头颅"
+        }
+      },
+      "size": 13600,
+      "hash_md5": "05fad34424418f0203d674409fa82bf2",
+      "hash_sha256": "0fdf848713416ae40ae8d5db39dc21113cc4bd83e1aab55c4b25188d28669d35",
+      "ttl": 100
+    },
+    "230117380": {
+      "meta": {
+        "schema_version": 4,
+        "id": "g0d_of_heads",
+        "name": "G0d of Heads",
+        "version": "1.1.0",
+        "link": "https://github.com/Passion-Never-Dissipate/G0d-of-Heads",
+        "authors": [
+          "SeeU_SAMA,FRUITS_CANDY"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "获取任意玩家的任意数量的头颅"
+        }
+      },
+      "size": 13638,
+      "hash_md5": "dec8d0b13d3fc13f69ff75f9e214bcd5",
+      "hash_sha256": "cc3372cb98f123cc7ff715ff9444b203e7c5c441b2b131c97c3f9a1510390657",
+      "ttl": 100
+    },
+    "235750649": {
+      "meta": {
+        "schema_version": 4,
+        "id": "g0d_of_heads",
+        "name": "G0d of Heads",
+        "version": "2.0.0",
+        "link": "https://github.com/Passion-Never-Dissipate/G0d-of-Heads",
+        "authors": [
+          "SeeU_SAMA,FRUITS_CANDY"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.6.0"
+        },
+        "requirements": [
+          "mcdreforged>=2.6.0"
+        ],
+        "description": {
+          "en_us": "获取任意玩家的任意数量的头颅，适配全版本"
+        }
+      },
+      "size": 16192,
+      "hash_md5": "668742ef1feb779724e2b641a0792aa9",
+      "hash_sha256": "797df9f24650a78858c8167d9c163c717430b76a9ded80a4f7a78a7743f1df5f",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"75d6229ee60eebf9009a73d804d407f82998ff7d0f868311ea45c4d7c75fd61a\"",
+    "data": "H4sIAACmV2gC/+2ZS2/jNhCA/0rga+PI79gGFtuiAdLDbhIUaQukKQRKGllcU6RKUnYdwf+9Q+phySncpCbQSy6JPCK/GZLDGXJU9GjUW14sRtPBZDQeDC4velxE4Ftp72d/vbq5v9t9vY1/6JlXJAUjvx1EfRH3fwISKSOPc8b8+uUDUYoK3r+DDcj+DcVfGdHgHXfKJN2gHLvEhClAidhykPi76DGxovwEzPS3Jg5nk8V8MlvMuobfW8N/jH4dgzWcoCYi/Vwy8zbROlNLzyul6mpFdZIHuQIZCq6B66tQpF7uNfDPm08Tg1nJClRqMaJjZEYrXMlApvJODCLRKTs2q9X/RM9YMCa2iPfPMMFrKAck5SsHSKQUntAJ4Kxj872dPqr0eeZaQmH/4RpYqML1kBCdha0YaLDxwH3hSchESc8DFUqaaex2nukdkkELuSKcvpDz0UiyRGP1eSRLMCiU8zPXqkQUnt3n4W5fWhgC3eBqOeAfsQxe7zIbgu5bU2s3KYL8DYWtX7fI8oDR0K4w1eCTKLXxxkai/X/el69iXATNmhvScz6BwcD8HZHn/DqY4/N0PJ3i82w+ec7n4+DaSKKZaRMHz/lsOIjx7/QaWy6GIT5fj8kC2wQBtpkuxthrMZ83hNk4Gtm++BbD+ajc1nLdirKn59x6wJvHZ9D/topvJ3oWZ7hr2DnEGlph/tYxI8QQRQIhiRbSoZ4Otuj8tGo1kNShOouzSUQIl6tgcTbDKpXD27bqO/CWqprwwPM0qPKDa02HwGBarziAQ3iDLLwmwQWS8DBxqaUmFtVT6Udk5dKNSJk9AiYCh1js5Vlk4amEVPlf+25tN0oMsatDQuxYhyEedGjp1JPsIKT1pFoDHkg0epVDJTXRK2odjPBVTlYulTTI+mC2Ii8g3Y6iYpZhnGtJg9x1FD9QW0fAwO1ADtDjY6ZzJVl9DMLuKdVOp8oCu7vPuRazP15pMgK32aImdlJSmQKrV85z4D+qrO6gjj3aEL3iO3yZ1POXEQlOp88AvSIgeIS+uroqEpRbXSlIp2Gm5Nm8LsME7wDu0EVNxKNoSrS9CsZ2EBHeDZnANu6UNcjG05wfszqeleWMOdRgcR0FKWWgtOBOF7thdlRxoWlMwzfdnt+hrYMtPivKQ7gkjF2ib2samh6Ur6r8GQBzmjwNDwdJUqguywyI00NATSy86iIUQcbEznEgbUFtpJGATSKfaIMfDUbT/mDYHw8fB9PleLKczJ/sFT2LXrUa9wfzx+H1cjxfTidPpQer5ESj4VOdhKrB4OP7L+5m2DYpq6TF+f5AWb6HEjL03TNLCY1FG+6gKJGIFDI8pdUlTEVfzPNk2D20hSLnZp5NTXhLNN5CjoT1ac/WaXc6KQ8ZCVF+GXtQrmUOlSyT4huE+kh6CIEd8Zau6VF3e6w8VDFsZ6rC3I65/aasSbQNTamUoq7+coxah8wRtToijgSsIxIZ8Go0DdFME6MhcAW2Vr2GnXWRjPXHV4NOmfzul4tb4CAJu3iwBaeLL2XHi03VVGXRX1U1+fbhSw04vRUr5Xgwaqk81L6/3oSzx1v27em36cvT4/pTz9SziKnJmqS2xvB1mFmqfA1pxrp1+C0E1SnON3dcEcd4pfozp7IzN1pkNDQT//sf+GtDFQ0oo3rXLa+VJZ1yHVqzWc1j7VdVgwhikjPtl3ddA0oJtV6VgUxps9RFr1OwuyzbadIRmVjRNlfS0lcP7xmrZmJvizNp5pebVYs18Hp3oIdpkRr3RRs0taYX+6P67cdHi4+PFh8fLT4+Wvy/Hy046C2G207ua1cvGvn+b2pU8t33HQAA"
+  }
+}

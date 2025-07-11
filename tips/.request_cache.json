@@ -1,0 +1,73 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"67f67778e9a6bbc62b66d2ede5ad680962a35d801d7614431bf594eeff6149e7\"",
+      "data": "H4sIAL4rbmgC/+1YbW/iOBD+Kxb74e7QQuKQUIh02uvSO+1KR7uqulupuyvkEBN8m8SR7cBRxH+/sRMCpS9bWvh0ER8Q45lnxmP7sR++Lhu5iBs+akyVyqRvWSRj7YipaR60xzyxBM24tIacxyyN7K7tWFcsk63h4OwSxmJKJJWWg+HT6Xle4y1qECmpkqNDwloFpkbPs5iTcBe9sMpXZ1i+S0lC38YkoPFKp5uqJN5NtpXkJ/CKRJbdttuOhmIhgFQJdaNyNeUCjMtGzCOW6hxbgFUMdk/6Xdfp9sCQ8pCOjLXxefQjOrsYnH94H5yavs+IIuJe34113ZlcUjHmqaKpMvXnVgX+bva7q2EiUQIVWUzPn1xKjXmn0fv1TXtPeBzzOcCM9kxlVZEbGBh6IQz8WlpcTSl0EVzMBoiYVPuXZaKW5gv6aIAk9FTQcG+oMg4Km6dQ09Js7AIxD+RYsEwxnu5f4p1oDcdFRFJ2S14GB9EGxRy7vaNNlA6nM9ia+8cXYUsrE2xGxotVUcmYshl0/IWYO/EaUi0yao4eOJuDAd+jGaPz0Xoky4OYjc3qMEVHJEzMuZ6QWNLV3fN7+efox/zs4jzoO6dDd5gNzz6ZHCQaaRLSLhV3wB6IqBpBoQlTTE71YEIAWkOWzrPKOxRkotZZNYskSa5IENMtWyZoSVNbxrGgRMGMiY5uOLbjtWy3hd0ru+t7HR87NxrezFFOH/PzfBffbC4C8Ph6kEumgLMctwsJXc/dcOrastPf0+3+Xojh++vtdpkMRc/ayTg062l4HwbTPI6ru4bWFF1TdE3R/xuKLg9f5U+yDPxNzy0+VlS1pAKeTModo4xTSRVhAXurbR27qxkpZBGVakMqIWwS84Qd8zzV9hP3Z8zr+R3vpnj8hk96nRivQPC5nnWV6cXv1zVC8Yi17lHm6ntxNwUkjl/x4C8RNk/lW5a9ErJE2EAGPFxorBaaQKd9xJJM8BlFCZWSRBRJtYgpChaIlDSD9M5BsBkmLEK/JhQuYPTpEj27iRkst4XRRPAEzUkatRZ5llv60v7tm/iWvnmDrqdE/SLRYAqjNNTGJipW2EdwPU/Yv4ikYVXhHDJCPTEXusw/KkzE0n2r0rnKIs7pHA1gxwsW5IoLWZSxhZ7AtkZAuEygCRNS6ZYU3nAgXpG72fwLfpezh8u12fSfDwUjGRHULC9ut9vVMidwcg05rk8XhiN9kOcH7tvY9Zxe77Aat4I9msbdzXAkjYs3j6F1wlrj1g+o+gFVa9y1Bvv7y/Xw40MaF++lcfFhNS48oJwWxld2z3d7vuM+pnG3/fq+6x5T42Kna/e6J972/4aF5SmNOxQD8s/DGhfXGrem6Jqia4o+rMZ1+vazNK4hjUeZF9sgXf1O52GNu+PlHVPjYuseZR5B4+LDa1y8rXE/pkyhcoLtQ+ktuJRlmWr1/T8AnN2fNxwAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPV61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "212608675": {
+      "meta": {
+        "schema_version": 4,
+        "id": "tips",
+        "name": "Tips",
+        "version": "0.0.1",
+        "link": "https://github.com/Mooling0602/Tips-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "pyyaml"
+        ],
+        "description": {
+          "en_us": "Send random tips to online players.",
+          "zh_cn": "向在线玩家发送随机提示。"
+        }
+      },
+      "size": 2904,
+      "hash_md5": "78074d8dcfbaa9bafbe60ad68d9f4541",
+      "hash_sha256": "23a8bfb0dbe73e1e936736e2c1a04fab372931c0f70e012e3ac8ac080e4f4e10",
+      "ttl": 100
+    },
+    "246202454": {
+      "meta": {
+        "schema_version": 4,
+        "id": "tips",
+        "name": "Tips",
+        "version": "0.0.2",
+        "link": "https://github.com/Mooling0602/Tips-MCDR",
+        "authors": [
+          "Mooling0602"
+        ],
+        "dependencies": {
+          "mcdreforged": ">=2.1.0"
+        },
+        "requirements": [
+          "pyyaml"
+        ],
+        "description": {
+          "en_us": "Send random tips to online players.",
+          "zh_cn": "向在线玩家发送随机提示。"
+        }
+      },
+      "size": 3064,
+      "hash_md5": "c573dc9d166da595a23233875758535a",
+      "hash_sha256": "2526efa138ec307454f828509ace9dd97f6b7744283b4e2fd717270da3b95498",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"27b0bf4ff60f77f076a4b8e1b7783ba57a02af8a4e3b4ba56654dc592985763f\"",
+    "data": "H4sIAILWQmgC/6WYX2/jNgzAv0qQ17Vxkqa9a4DDrbsC3cO1Kw4tBnQYDNlmYl1kSZPkZKmR7z5K8p8422VN9dLGsvgTTZEUqWpIs+F8cD2efJiNxxfTs8GQiwxiNzr8Fq+Wt789JNfTm5uhfUUKsONPVOrz+y+33+zgomQsbt7cC8EoX46vxtOoN0squibGzlkQpgFHxIaDwudqyMSS8gNpK+OUmMw+XF/Nplcf+6o9O9W+PPz6S+JUI0gnKi4Vs29zY6SeR5Ef1aMlNXmZlBpUKrgBbkapKKIyauGf159mFrNUNcivYocOkZLWOM9Apo4OFM9NwQ5V2ZM5mL0QjIkNYuITl4payQ6Dr96JwacqEiYHtCJO2TlzUG1OV8tJVe4f2tGBNNpUQXYyqpZDxay37KpIgRSeWCY6VVQaKvjpKvakLU6oJeH0lbwPh9KOYrU7XdpJWXFYo2ueLu/FqsjFWLrdeU1SoGu0+DuZB/IWabbSxfgzTnaBgf/jNYVN3LyRZcJo6naHGohJVri4dhG/Oyku+skjg3azrOjNQNNCMhgYKiWowUKogZ0K+GMJ2chHg1rtJZvjn+824MfLW9b/WfAIInLyFrSCbQjHilf2bxNVKQYuSYQiRqgQcI9T9R7dOgZIEcJ38i4xChFkSSfvjgatS3ibbx/jOYxuA4iXRVJnvmB0FzdEa7rkACG0llFFbXJOFOFpHoRtEFX9y+82WQZtNvG5MGEiCeHgtMgxqkjnpD6OTByonaVaRB+qYBEKtYgOalTYfjs1ldvvBolHocG9D6E2iKhqoIzwZUmWQdSW0Rz0S/IKKlDPGuKzHDeKJmVwkuswewVEEqhqRzmsSsKp/sRzJigKasK+3hH6bh+OtX76L7QdCMyeDaKXk33Sr1+FZ/3/XKPuD0IdzSKi6idJTN6YRBIFYRaxhKhKCBZTo9GoyoH4MqAAFRbBHuDOKpXmWPYFsKoGgVVPQYwr2RdOzQxreCZIFqJpy2j9Ifz47+2/xG42BOnke8SCMtBG8LAdaiE9NheGLmj6pq7lGL7HqT5rylM4I4ydocsZmlL0YxSqT4wEWNhxYQH4GaSAulVhQMIOtgZRRXVlnIFkYhuahfYoLogVEIMtETGWNx1PZ+eT6flk8jT+OJ9O5tPLF9cWyaw/6/J8jBNnT+Or+eXFfHrx4v1M5z+adDmfTV6aHF1rjz/f0CzZD3PHkM73BH/uxOZHxVKGHnZqg9auuebv6e1yUYDE6gHlOMaO6x1f7dP0ql9OpKLk1lpjHN4Qg2XrwWBTh1gNHrcm90dnTnTs4xzHjSqhHpNKfIfUHIx2+aU3vKEreiDuCp6uwXTCVKclFur2SqF747vHRtGJywhKieauqv7oOmtme4KIIwnrDQkJvP6almjv7LDrBq7B3aZhf+j2XbLzi9F4/9ru7uF5cAccFGGDR9eqD756wcG6nqpl9nd993X3+LUBHI+genEd7S/Z3dTd36ZXT3fs+8vvl68vT6tPQ3sTQOyNkz0iVugUnWWpjg1ga9+/KdxAUpcqse2CxGKBBftfJVU92xghaWoN/8ef+LSmmiaUUbPtX0z4Xtzvw541azs2flV7VAYLUjIT++bIggpCnVdJUAVtt7oa9q46zvw8Q3pDNuL31VXU+2r3nrHaEjvXcxcy9gFpxAp4cx3JwWzwG3oOtV/KtuO7fwAi3QpM3BUAAA=="
+  }
+}

@@ -1,0 +1,67 @@
+{
+  "NOTICE": "Not public API, DO NOT use this file",
+  "release_pages": {
+    "1": {
+      "etag": "\"6eb88527495e5c9b645f93284e632ad084756ba69a0c2ee8db1adc8f5861e7b0\"",
+      "data": "H4sIAM0fbmgC/+2YXW+bSBSG/4rlva3NAAMGpFWVbaqsUjlRI2+1TVOhAcZ4snwJBtuJlf++MwO2sVtTO2tys3Pl5Pic9wyH4R0ef1v1yzzqO73+jNKscBQFZWQYEjorvaGfxkqOs7RQrm/vLwa3dxc3Vx+V8YfLu8FjSpLx7eQywUvKciKMClwoqgptAKAB++96fVQUmBZuF/JKpc27lFmUomC/SxUtztZp9T5BMX4XIQ9HL7ztjMbRftNGsyPbUBQqYKgNVS5JAia2acwHWNJZmrPgqh+lIUl4r4bwpsZUTTDSoMn+T9IAuyLYH19+Nr/8fRP5j1+XN48X+vjxsyZuyxxRlP9wW0R0PbCywLmfJhQnVFxOqax7vJ//Lm5umNc6VTNxJ1pvNJfcGf9pU+TZ0zSK0gWTcU9spWwqtzIkCV8pwypXSkpnmA2RpYjtEJKCnr4sUbUSH2yOQqhgM81xcLJUXccWtkjYmlZiu1eKpVf4OckoSZPTl7hTzeXSPEQJeUavk2PVQkU8jCdXiypejudsZ55eX5WtlCwnc+Q/vVQr8TGZs4m/UnOvnkvSpwxzjb9Ysngw2Kc7J3jhrr/JSi8ivrg7hGIXBbF4uqcoKvDL7mN899H9Z3F5e738dDW24JU20WPRA4UutySesnEQtgdCTF220JhQUsz4lzEqaLWMdXrTinrzTXGQoyldL4JbSxyXFHkRbsSyHNfe1Qj6OUaUDQDx6r4GNH0ArAHQJ0B1DNsxzHsuLy65mP00T3NUlgrvt6cGy/h21pOpkmW+blsQahpoGG4d2Rv7RXPsf15/Uq1DMxxUMxzGfiDmLA4JlpSUUbQ5oLD0cenj0sf/Zz5eP3ubfJRlLF/MXEl9iumgoMw943rHUJFUG0ZQyT7zmA4Ad4WAhLigW2sJ2CYRb79+WiZUOIjVasiaA0wHVEZbZkFrVmXbXp4u+GVvWv3nd961UvXiqxx00pfv1YnmoSg6A0TUStvX7WeSnUm6VtpKe2nwxDUfSsNXg4fS8gLjoYRTjFnEBixiG/xv27Kt3m96r9dnm+XMIAagCYFpdgVitfwbgNhup45BbNl4L6gbSxCTB7g8wCWI7YFY9HX54WcgtjwexHg6ODt6mQMdTMDIgbaj2S3otc4zTAe+DXpB2wKaauz81iUibeh1pSVf9Hb0AhK9pHNL55bO3QV6aTYEx6AX1H7hx8xndeMgeTWzRm9BXkvloJF2SF7L7shr2SSv8wMVsIE+gobeEVCt5bsHqr1OnQKVOmz80LpuLIFKHsvyWJZAtQdUUwvf/AhUtYMcC1RqJ0Cl2hMAHWgwpmoFqjpv5KijNwEqXTeAro8aQFVHWoFqce/90QZUqgQq6dzSuaVzdwRUmmofA1QqhL8yZGa0WgtRbbP07omKuaZy0Ek7I6r6vOuCqGrpLVF9/xeDll8PLCgAAA==",
+      "empty": false
+    },
+    "2": {
+      "etag": "\"ef0b200f23451d4ed211633c01a706cfe75afc0b3512842a3194480bf1ab7599\"",
+      "data": "H4sIAPV61WcC/4uOBQApu0wNAgAAAA==",
+      "empty": true
+    }
+  },
+  "asset_data": {
+    "119844220": {
+      "meta": {
+        "schema_version": 4,
+        "id": "join_motd_next",
+        "name": "join MOTD next",
+        "version": "0.2.1",
+        "link": "https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext",
+        "authors": [
+          "JOZA_ORANGE"
+        ],
+        "dependencies": {
+          "daycount_nbt": ">=2.2.1"
+        },
+        "requirements": [],
+        "description": {
+          "en_us": "Send more diverse information to players when they join the game",
+          "zh_cn": "在玩家加入游戏时向其发送更加多样的信息"
+        }
+      },
+      "size": 3006,
+      "hash_md5": "a41c22a366710db881f52eb381f3404f",
+      "hash_sha256": "f02708f76b475d277fbaf20432b7f4955c5a744045962d67890c4db24704a821",
+      "ttl": 100
+    },
+    "113350337": {
+      "meta": {
+        "schema_version": 4,
+        "id": "join_motd_next",
+        "name": "join MOTD next",
+        "version": "0.1.0",
+        "link": "https://github.com/JOZA-ORANGE/MCDR-joinMOTDnext",
+        "authors": [
+          "JOZA_ORANGE"
+        ],
+        "dependencies": {},
+        "requirements": [],
+        "description": {
+          "en_us": "Send more diverse information to players when they join the game",
+          "zh_cn": "在玩家加入游戏时向其发送更加多样的信息"
+        }
+      },
+      "size": 2219,
+      "hash_md5": "7dbd6d9f2a84fc7b890c43e45cbd847b",
+      "hash_sha256": "ee9926bb45179ba536bac08867f406b76465f2bb9b5799881a40c7af623ec974",
+      "ttl": 100
+    }
+  },
+  "repos_info": {
+    "etag": "\"3afabde3129e9bb43dca3cc580b422765ea1e84797392c0fc903f99c7fda4a87\"",
+    "data": "H4sIAOt61WcC/62Y4W+rNhDA/5WnfF1bCAk0jTS9Vev0pDf1da/qpq3rhAyY4MbYzDZJU5T/fWcbSMiqvaTzlwQO38/H4TvfuRmRbDT/EIVhGITT4PLsw4jxDMdGOrqPl4ubu88vP3+6XY/0I1RiLb/98eb+/JkTdnv3cMPwi9IP85rSuBvx+e7x+vzu/vrLp5+8N0dXgqyQ0mNzRCUGCV8zLOC+GVG+IOyAonWsqePIvwym0dDS25uv0W+/f6Hp8x8vX56vJ7fPXwOtgmASJOJaUD2qUKqSc8+zUnmxIKqok1pikXKmMFMXKS+92uvm+Lj6fqopC9Fy7GRadEisSEuzCEBK78D8QpX00JI9nYPROaeUrwETnziV12vuMIQt3okBzcbjqsDgRBiyNe4gUp1ultFqzB/40YAk+FTg7GRUqweG6TWzbTyBK26JdSJTQSpFODvdxIG2xnGxQIy8ovfhQNtQtHWnaxstrY5XsDJP17dqjWciLd1srSUpJivw+DuZB/oaqTaVifhfYbAJDPiPVwSv4+5JVSeUpObrEIVjlJUmuk3cb0+Ki7dTSYb7j9YlJ5yD73H2VEeTLHiqpziPnuo899OnOrwMZk/15QRdwXWSgDwMkA+/4yiE8XgCT6PAz+E31FrhdDzWTy/19SSD6yvfh98oyqe97tUYgWQ2uQRyNAP5NMd6jB/lNgjFci/T/bfXzXf/9ltr5rc+4BEoz3A0cIk3Lnga0+jfLshTyCMo4QIpLlxMMOA1g1szn8KodDGP4Zi8zbkTTxuO2cekrPFxIXgM1+BkH++sLpM2UTubYhfuSEqyYBi7oPasxuv3lkQglhZO8B2qaa/s6kALJ4sD2dSeUJ644MFwz7AaTxao3WVV7MhaTdeoIVzg3BVco3ZwJdysD2O2MOujQ8POr2CtuKB3KK/p4BSxRY0WTug9q6tzFugVC0d2tzCbXZkSJKmdJdcdbq+eShyZvqMdFmvu6LYQMK4pS6LceMWQhuHjDq/X+b+m0AJH2btDDfYGuwm1j9ztQm/O1XZXrhaoRnnNdxVSReeqCgnsxlOa5DUJgtr04uKiKTCyZUyJhZvMYEFmLxVpAdW0A2bToaCaK5EyHVFuzM6gRaIcZS4s71n9+nFXvgzWS1VT6gJtOANySSiWijM3X7KHDeZgXJGcpEc1jcdMM+A1HyVhKT5DlJ7BUlUkJRAH0KW3O1iCqZvtS4PgtVCJ286RYuRm4+1Qjdd2CBmuKN+4ynZ7NJMcBEYKOlakNDfwg8m5H52Prx786XwazsezR9O1VtkbowIYNZmHs3kQPtp1KYvhoLF/PvEf/Kv5ZDYPJ4/d3tC+BVye0MvqFzXboiz2AD/s1OdHqacUVuR7++nehhX7Py15wUtcQfUD+gxi0LT+r/pu7A/LoZTXTHszAPEaKSjXD4RdHaUt+WWjCru1F0jGNm+AXIkat7JK8GecqgPpLm8NxGuyJAfqpmDbNepGmci0hkZFnwjtntjuuzPUN5lFCN6dNLYv3WblbE8RcCihAxGvMGvfZkCkJMVM7vkQ6QM5neKXEO87y4mMFS4rOjxOXeOkLVFi3WXxPIeC/++aiMHcilck1S/2519wtyKSJIQStRme29gzAmvVnrWtpPtu7RfLcI5qqmLbdGlQiaSyh0MVFiXpndmMBmdB2omIMIUGIh1z+wYLYlfD7jmlrS+2pvsvq9iGgOJLzLrzWobVGt5i4OD94raTj7f/AMhbgwgTFwAA"
+  }
+}
